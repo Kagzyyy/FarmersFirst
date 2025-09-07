@@ -1,0 +1,7 @@
+{
+  "name": "Farmer's First",
+  "description": "A mobile app prototype for farmers to manage crop listings, track orders, and connect with buyers. It features registration, login, crop management, and order tracking functionalities with an agriculture-themed UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

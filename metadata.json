@@ -1,5 +1,0 @@
-{
-  "name": "Crop Connect",
-  "description": "A mobile-first web application for farmers and vendors to connect, search for produce, and manage orders through a UPI-mandate-based payment system.",
-  "requestFramePermissions": []
-}

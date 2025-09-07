@@ -47,6 +47,7 @@ Machine Learning Model: SciKit-Learn, Python
 
 
 **Crop Connect**
+
 A mobile-first web application designed to bridge the gap between farmers and vendors. It provides a seamless marketplace for browsing agricultural produce and features an innovative UPI mandate-based payment system for large-scale transactions.
 (Suggestion: It would be great to replace the static image above with a GIF showcasing the registration flow, browsing crops, and the payment process to fully demonstrate the app's functionality.)
 
